@@ -6,6 +6,8 @@
 Linuxをベースとしたpython2.7が動作するシステム（Mac OS X, Ubuntuなど）
 ## インストール方法
 domi-randomizer.py および cards.datを同一ディレクトリ内においてください。  
+さらに、domi-randomizer.pyに実行権限を与えてください。  
+`chmod u+x domi-randomizer.py`  
 実行環境によっては一行目のシバンを変えてください。
 ## 使用方法
 オプションを何も指定せず実行すればすべての拡張セットからカード１０枚をランダムに選択します。  
