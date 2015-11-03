@@ -20,6 +20,7 @@ domi-randomizer.py および cards.datを同一ディレクトリ内において
 * -d --darkages 暗黒時代の拡張セットを指定します。
 * -g --guilds ギルドの拡張セットを指定します。
 * -i --intrigue 陰謀のセットを指定します。
+* -l --alchemy 錬金術のセットを指定します。
 * -n --hinterlands 異郷の拡張セットを指定します。
 * -s --seaside 海辺の拡張セットを指定します。  
 
