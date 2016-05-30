@@ -2,7 +2,7 @@
 
 ドミニオンのカード選択のためのCLIアプリケーションです。英語のみ対応です。  
   
-ブラウザ上で動くやつ作りました!!
+ブラウザ上で動くやつ作りました!!  
 http://ArabicaArabica.github.io/domi-randomizer
 
 ## 実行環境
